@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+header{
+    background-color: black;
+    color: white;
+    margin-top: -25px;
+    padding-bottom: 30px;
+    position: fixed;
+    width: 100%;
+}
+section{
+    /* margin: 0; */
+    padding-top: 67px;
+    background-color: blue;
+    padding-bottom: 36%;
+}
+.column1{
+    background-color: teal;
+    float: left;
+    width: 50%;
+    overflow: auto;
+    height: 467px;
+}
+.column2{
+    background-color: tomato;
+    float: left;
+    width: 50%;
+    /* padding-bottom: 153px; */
+    overflow: auto;
+    height: 467px;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    margin-top: -25px;
+    /* padding-bottom: 67px; */
+    position: fixed;
+    height: 100%;
+    width: 100%;
+}
+.para{
+    padding: 5px;
+}
+
+

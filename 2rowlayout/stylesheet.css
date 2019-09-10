@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.row{
+    background-color: green;
+    color: green;
+    padding-bottom: 50%;
+}
+.row1{
+    margin-top:0px;
+    background-color: red;
+    color: red;
+    padding-bottom: 50%;
+}

@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f4f4f4;
+}
+.column{
+    background: green;
+    width: 50%;
+    padding-bottom:100%; 
+    color: green;
+    float: left;
+}
+.column1{
+    background:blue;
+    width: 50%;
+    padding-bottom:100%;
+    color: blue; 
+    float: right;
+}
